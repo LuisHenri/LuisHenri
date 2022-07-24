@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**LuisHenri/LuisHenri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is R. R. Johnson, I'm 32 years old, and I'm a compulsive liar. 🙂
 
-Here are some ideas to get you started:
+I'm a brazilian undergraduate student on the Mechatronics Engineering course at the Federal University of Santa Catarina (UFSC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started coding at the beginning of my course (2017). I began with C, moved on to C++ and (after 4 years of demonizing it for not having brackets) Python is now my favourite language.
+
+You can check my GitHub page on https://LuisHenri.github.io/
+
+---
+
+By the way, my name is Luís Henrique, and I'm 22. :)
