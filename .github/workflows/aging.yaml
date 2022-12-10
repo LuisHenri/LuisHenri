@@ -16,14 +16,12 @@ jobs:
           python-version: 3.8
 
       - name: Install dependencies
-        working-directory: ./.github/workflows/scripts/aging
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          python -m pip install --upgrade PyGithub
 
       - name: Aging
         working-directory: ./.github/scripts
-        run: |
-          python -m aging
+        run: python -m aging
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
