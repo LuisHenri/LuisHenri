@@ -28,7 +28,7 @@ By the way, my name is Luís Henrique, and I'm <!--START_SECTION:aging-->23<!--E
 <!--C++--><a href="https://www.cplusplus.com" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 
 <p align="right">
-<a href="https://www.buymeacoffee.com/LuisHenri"><img style="text-align: right" src="https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee!_:D-fe2" alt="LuisHenri"/></a>
+<a href="https://www.buymeacoffee.com/LuisHenri"><img style="text-align: right" src="https://img.shields.io/badge/Support me-Buy%20Me%20a%20Coffee!_:D-fe2" alt="LuisHenri"/></a>
 </p>
 
 [//]: # (https://github.com/kittinan/spotify-github-profile)
