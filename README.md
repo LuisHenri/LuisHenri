@@ -13,9 +13,10 @@ You can check my GitHub page on https://LuisHenri.github.io/.
 By the way, my name is Luís Henrique, and I'm <!--START_SECTION:aging-->23<!--END_SECTION:aging-->. :)
 
 ### Connect with me:
-<!--LINKEDIN--><a href="https://linkedin.com/in/lha-schunemann/" target="blank"><img style="text-align: center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lha-schunemann/" height="30" width="40"/></a>
-<!--INSTAGRAM--><a href="https://instagram.com/luishenri_" target="blank"><img style="text-align: center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luishenri_" height="30" width="40"/></a>
-<!--GITHUB--><a href="https://instagram.com/luishenri_" target="blank"><img style="text-align: center; vertical-align: 15%" src="https://img.shields.io/github/followers/LuisHenri?label=Follow%20me%21%20%3A%29&style=social" alt="luishenri_" height="22"/></a>
+[![GitHub followers](https://img.shields.io/github/followers/luishenri?style=social)](https://www.github.com/luishenri)
+[![Linkedin Badge](https://img.shields.io/badge/-lha--schunemann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lha-schunemann/)](https://www.linkedin.com/in/sriharikapu/)
+[![Instagram: LuisHenri_](https://img.shields.io/badge/-LuisHenri__-915?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sriharikapu/)](https://www.instagram.com/luishenri_/)
+
 
 ### Languages and Tools:
 <!--GIT--><a href="https://git-scm.com/" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -26,5 +27,8 @@ By the way, my name is Luís Henrique, and I'm <!--START_SECTION:aging-->23<!--E
 <!--C--><a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <!--C++--><a href="https://www.cplusplus.com" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 
-### Support:
-<!--BUY-ME-A-COFFEE--><a href="https://www.buymeacoffee.com/LuisHenri"><img style="text-align: left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LuisHenri"/></a>
+<p align="right">
+<a href="https://www.buymeacoffee.com/LuisHenri"><img style="text-align: right" src="https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee!_:D-fe2" alt="LuisHenri"/></a>
+</p>
+
+[//]: # (https://github.com/kittinan/spotify-github-profile)
