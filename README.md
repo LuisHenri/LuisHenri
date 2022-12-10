@@ -1,5 +1,5 @@
-<h1 style="text-align: center">Hey there! 👋</h1>
-<h4 style="text-align: center">My name is R. R. Johnson, I'm 32 years old, and I'm a compulsive liar.</h4>
+<h1 align="center">Hey there! 👋</h1>
+<h4 align="center">My name is R. R. Johnson, I'm 32 years old, and I'm a compulsive liar.</h4>
 
 #### A little about me...
 I'm a brazilian undergraduate student at the Mechatronics Engineering course at the Federal University of Santa Catarina (UFSC).
