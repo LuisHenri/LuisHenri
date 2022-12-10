@@ -27,4 +27,4 @@ By the way, my name is Luís Henrique, and I'm <!--START_SECTION:aging-->23<!--E
 <!--C++--><a href="https://www.cplusplus.com" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 
 ### Support:
-<p><a href="https://www.buymeacoffee.com/LuisHenri"><img style="text-align: left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LuisHenri"/></a></p><br><br>
+<!--BUY-ME-A-COFFEE--><a href="https://www.buymeacoffee.com/LuisHenri"><img style="text-align: left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LuisHenri"/></a>
