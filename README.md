@@ -28,10 +28,3 @@ By the way, my name is Luís Henrique, and I'm <!--START_SECTION:aging-->23<!--E
 
 ### Support:
 <p><a href="https://www.buymeacoffee.com/LuisHenri"> <img style="text-align: left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LuisHenri" /></a></p><br><br>
-
-
-<p><img style="text-align: left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luishenri&show_icons=true&locale=en&layout=compact" alt="luishenri" /></p>
-
-<p>&nbsp;<img style="text-align: center" src="https://github-readme-stats.vercel.app/api?username=luishenri&show_icons=true&locale=en" alt="luishenri" /></p>
-
-<p><img style="text-align: center" src="https://github-readme-streak-stats.herokuapp.com/?user=luishenri&" alt="luishenri" /></p>
