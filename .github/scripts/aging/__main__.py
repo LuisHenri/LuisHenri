@@ -2,6 +2,7 @@ import datetime as dt
 import logging
 import os
 import re
+
 from github import Github
 
 # Get environment variables
@@ -31,7 +32,7 @@ def main():
     file = repo.get_contents(readme_path)
     content = file.decoded_content.decode()
 
-    age_section_regex = rf"<!--START_SECTION:aging-->(\d*)<!--END_SECTION:aging-->"
+    age_section_regex = r"<!--START_SECTION:aging-->(\d*)<!--END_SECTION:aging-->"
     age_section_regex_pat = re.compile(age_section_regex, re.MULTILINE)
 
     if age != age_section_regex_pat.search(content).group(1):
