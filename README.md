@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋</h1>
 <h4 align="center">My name is R. R. Johnson, I'm 32 years old, and I'm a compulsive liar.</h4>
 
-<img align="right" height="275" alt="" src="https://media.giphy.com/media/lNrEitzjloW3kpndjo/giphy.gif"/>
+<img align="right" height="200" alt="" src="https://media.giphy.com/media/lNrEitzjloW3kpndjo/giphy.gif"/>
 
 #### A little about me
 
