@@ -19,7 +19,6 @@ By the way, my name is Luís Henrique, and I'm <!--START_SECTION:aging-->24<!--E
 
 [![GitHub followers](https://img.shields.io/github/followers/luishenri?style=social)](https://www.github.com/luishenri)
 [![Linkedin Badge](https://img.shields.io/badge/-lha--schunemann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lha-schunemann/)](https://www.linkedin.com/in/lha-schunemann/)
-[![Instagram: LuisHenri_](https://img.shields.io/badge/-LuisHenri__-915?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sriharikapu/)](https://www.instagram.com/luishenri_/)
 
 ### Languages and Tools
 
