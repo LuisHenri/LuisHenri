@@ -5,7 +5,7 @@
 
 #### A little about me
 
-&#160; I'm a brazilian Software Feveloper undergraduated in the Science & Technology course at the Federal University of Santa Catarina ([UFSC](https://ufsc.br/)).
+&#160; I'm a brazilian Software Developer undergraduated in the Science & Technology course at the Federal University of Santa Catarina ([UFSC](https://ufsc.br/)).
 
 &#160; I started coding at the beginning of my course (2017). I began with C, moved on to C++ and ~~after 4 years of demonizing it for not having brackets~~ Python is now my favorite language.
 
