@@ -5,15 +5,19 @@
 
 #### A little about me
 
-&#160; I'm a brazilian Software Developer undergraduated in the Science & Technology course at the Federal University of Santa Catarina ([UFSC](https://ufsc.br/)).
+&#160; I'm a brazilian Software Developer with a background in Science & Technology from the
+Federal University of Santa Catarina ([UFSC](https://ufsc.br/)).
 
-&#160; I started coding at the beginning of my course (2017). I began with C, moved on to C++ and ~~after 4 years of demonizing it for not having brackets~~ Python is now my favorite language.
+&#160; I started coding at the beginning of my course (2017). I began with C, moved on to C++
+and ~~after 4 years of demonizing it for not having brackets~~ Python is now my favorite
+language.
 
 <!--You can check my GitHub page on https://LuisHenri.github.io/.-->
 
 ______________________________________________________________________
 
-By the way, my name is Luís Henrique, and I'm <!--START_SECTION:aging-->25<!--END_SECTION:aging-->. :)
+By the way, my name is Luís Henrique, and I'm
+    <!--START_SECTION:aging-->25<!--END_SECTION:aging-->. :)
 
 ### Connect with me
 
@@ -50,7 +54,7 @@ By the way, my name is Luís Henrique, and I'm <!--START_SECTION:aging-->25<!--E
 <!--C-->
 
 <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="c" width="40" height="40"/></a>
 
 <!--C++-->
 
