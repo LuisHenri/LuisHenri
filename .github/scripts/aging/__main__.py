@@ -3,7 +3,7 @@ import logging
 import os
 import re
 
-from github import Github
+from github import Auth, Github
 
 # Get environment variables
 ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
@@ -26,7 +26,8 @@ def main():
         - ((today.month, today.day) < (birthday.month, birthday.day))
     )
 
-    g = Github(ACCESS_TOKEN)
+    auth = Auth.Token(ACCESS_TOKEN)
+    g = Github(auth=auth)
     repo = g.get_user().get_repo(repository_name)
 
     file = repo.get_contents(readme_path)
