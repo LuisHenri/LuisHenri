@@ -36,10 +36,11 @@ def main():
     age_section_regex = r"<!--START_SECTION:aging-->(\d*)<!--END_SECTION:aging-->"
     age_section_regex_pat = re.compile(age_section_regex, re.MULTILINE)
 
-    if age != age_section_regex_pat.search(content).group(1):
+    match = age_section_regex_pat.search(content)
+    if age != match.group(1):
         logging.info("Updating age...")
-        content = re.sub(
-            age_section_regex_pat, age_section_regex.replace(r"(\d*)", age), content
+        content = age_section_regex_pat.sub(
+            age_section_regex.replace(r"(\d*)", age), content
         )
         repo.update_file(readme_path, "feat: happy bday to me! 🎉", content, file.sha)
 
