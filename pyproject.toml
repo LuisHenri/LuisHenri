@@ -1,0 +1,25 @@
+[project]
+name = "luishenri"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "PyGithub>=2.7.0"
+]
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.3.0",
+    "ruff>=0.12.8",
+]
+
+[tool.ruff]
+target-version = "py310"
+
+[tool.ruff.lint]
+extend-select = ["I", "E"]
+
+[tool.docformatter]
+wrap-summaries = 88
+wrap-descriptions = 88
