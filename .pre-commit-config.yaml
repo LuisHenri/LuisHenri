@@ -1,28 +1,34 @@
 repos:
--   repo: https://github.com/pycqa/isort
-    rev: 5.10.1
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.12.8
     hooks:
-    -   id: isort
-        args: ["--profile", "black", "--filter-files"]
--   repo: https://github.com/psf/black
-    rev: 22.12.0
-    hooks:
-    -   id: black
--   repo: https://github.com/pycqa/flake8
-    rev: 6.0.0
-    hooks:
-    - id: flake8
--   repo: https://github.com/pre-commit/pre-commit-hooks
+      - id: ruff-check
+        args: [--fix]
+      - id: ruff-format
+  - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.4.0
     hooks:
-    -   id: check-added-large-files
-    -   id: requirements-txt-fixer
-    -   id: end-of-file-fixer
--   repo: https://github.com/executablebooks/mdformat
-    rev: 0.7.16
+      - id: check-added-large-files
+      - id: requirements-txt-fixer
+      - id: end-of-file-fixer
+  - repo: https://github.com/PyCQA/docformatter
+    rev: v1.7.7
     hooks:
-    -   id: mdformat
+      - id: docformatter
+        additional_dependencies: [tomli]
+        args: [--in-place, --config, ./pyproject.toml]
+        exclude: src/dbmanager/alembic/versions
+  - repo: https://github.com/pre-commit/pygrep-hooks
+    rev: v1.10.0
+    hooks:
+      - id: python-check-blanket-noqa
+  - repo: https://github.com/executablebooks/mdformat
+    rev: 0.7.22
+    hooks:
+      - id: mdformat
         # Optionally add plugins
+        args: [--wrap=88, --number]
         additional_dependencies:
-        - mdformat-gfm
-        - mdformat-black
+          - mdformat-ruff
+          - mdformat-gfm
+          - mdformat-black
