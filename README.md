@@ -59,7 +59,7 @@ By the way, my name is Luís Henrique, and I'm
 <!--BLoC-->
 
 <a href="https://bloclibrary.dev/#/" target="blank" rel="noreferrer">
-  <img src="https://downloads.marketplace.jetbrains.com/files/12129/799520/icon/default.png" alt="bloc" height="40"/></a>
+  <img src="https://downloads.marketplace.jetbrains.com/files/12129/799520/icon/default.svg" alt="bloc" height="40"/></a>
 
 <!--C-->
 
