@@ -29,37 +29,47 @@ By the way, my name is Luís Henrique, and I'm
 <!--GIT-->
 
 <a href="https://git-scm.com/" target="blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/></a>
 
 <!--PYTHON-->
 
 <a href="https://www.python.org" target="blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/></a>
 
 <!--AZURE-DEVOPS-->
 
 <a href="https://azure.microsoft.com/en-in/" target="blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="40"/></a>
 
 <!--POSTGRESQL-->
 
 <a href="https://www.postgresql.org" target="blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="40"/></a>
 
 <!--LINUX-->
 
 <a href="https://www.linux.org/" target="blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/></a>
+
+<!--Flutter-->
+
+<a href="https://flutter.dev/" target="blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" height="40"/></a>
+
+<!--BLoC-->
+
+<a href="https://bloclibrary.dev/#/" target="blank" rel="noreferrer">
+  <img src="https://downloads.marketplace.jetbrains.com/files/12129/799520/icon/default.png" alt="bloc" height="40"/></a>
 
 <!--C-->
 
 <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer">
-  <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="c" width="40" height="40"/></a>
+  <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="c" height="40"/></a>
 
 <!--C++-->
 
 <a href="https://www.cplusplus.com" target="blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/></a>
 
 <p align="right">
 <a href="https://www.buymeacoffee.com/LuisHenri">
